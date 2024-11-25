@@ -1,0 +1,29 @@
+.loading-text-title {
+    -unity-text-align: middle-center;
+    -unity-font-definition: url("project://database/Assets/Fonts/Pretendard/Pretendard-Medium.otf?fileID=12800000&guid=5adbe9416898b4b4cb3f015676eeaf39&type=3#Pretendard-Medium");
+    top: 786px;
+    font-size: 38px;
+    -unity-font-style: normal;
+    white-space: nowrap;
+    background-color: rgba(0, 0, 0, 0);
+    color: rgb(38, 255, 223);
+    align-self: center;
+    align-items: stretch;
+    word-spacing: 32px;
+    letter-spacing: 2px;
+}
+
+.loading-text-copyright {
+    -unity-text-align: middle-center;
+    -unity-font-definition: url("project://database/Assets/Fonts/Pretendard/Pretendard-Medium.otf?fileID=12800000&guid=5adbe9416898b4b4cb3f015676eeaf39&type=3#Pretendard-Medium");
+    top: 948px;
+    font-size: 12px;
+    -unity-font-style: normal;
+    white-space: nowrap;
+    background-color: rgba(0, 0, 0, 0);
+    color: rgb(38, 255, 223);
+    align-self: center;
+    align-items: stretch;
+    word-spacing: 27px;
+    letter-spacing: -4px;
+}
